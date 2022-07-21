@@ -1,1 +1,1 @@
-# imageproject
+Purpose of this project was to create an app that can be used to combine multiple images to create an average image out of them. Personally I have tested and used this with pictures of space and some pictures of mountains. Used images need to be copyright free (thus the free for access Hubble Space Telescope images).
